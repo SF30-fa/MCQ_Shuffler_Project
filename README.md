@@ -1,18 +1,18 @@
-##MCQ Shuffler Project
+## MCQ Shuffler Project
 This file contains MCQ_input_File and MCQ_Output_File, which are a demo of my MCQ shuffler program. 
 
-##What it does
+## What it does
 As the project's name shows, the user need a text file containing a list of Multiple Choice Questions.
 The user will first need to enter the number of shuffled versions they wish to get,
 then they will need to enter the directory path of the initial MCQ version's text file into the program, 
 along with the directory path of where they want the different shuffled versions to be generated in.
 After a few seconds, you should see all of the shuffled versions of your MCQ text file in the directory path you entered.
 
-##What if my test isn't in a text file?
+## What if my test isn't in a text file?
 You can open the NotePad++ app, the TextEdit app, or whatever software that is on your device to create a simple text file,
 just copy the questions, paste them in, and save the text file onto your device. It is way easier than it seems!
 
-##IMPORTANT
+## IMPORTANT
 Each question must be formatted with a number at the beginning, and 4 possible answer choices: A, B, C, and D.
 You must have the questions in ascending order of number (so from 1 to 20 for example).
 You must also use one of these two formats for each question:
@@ -24,7 +24,7 @@ You must also use one of these two formats for each question:
    D. Rome                               |        D. Sergio Ramos
 
 
-##Demo
+## Demo
 I took 50 microeconomics MCQ questions,pasted them in the default version text file, 
 and then gave it to the program while asking it for 4 versions. 
 
