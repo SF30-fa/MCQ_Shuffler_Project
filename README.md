@@ -34,25 +34,37 @@ You can see the output files of the 4 different versions in the folder.
 
 Here are some pictures illustrating the DEMO:
 
+
+
 <img width="155" alt="image" src="https://github.com/user-attachments/assets/fa5616d3-88e8-47e7-a8aa-6caa933b7db6" />
+
+
 Directory path, you must add the name of the file at the end, and the name of the text file so in my case it went: 
 /Users/saeedfakhouri/Desktop/ MCQ_Shuffler_Project-BackEnd/MCQ_input_File/MCQdefaultVersion.txt
 
 
 <img width="277" alt="image" src="https://github.com/user-attachments/assets/639eec02-9186-45b7-bb6f-60e4f8132240" />
+
+
 This is the file I want the program to put the generated shuffled versions in, so I take its directory path, for me it was:
 /Users/saeedfakhouri/Desktop/MCQ_Shuffler_Project-BackEnd/MCQ_output_Files
 
 
 <img width="410" alt="image" src="https://github.com/user-attachments/assets/347b9f3a-968a-4098-bd5f-05bf884bad0a" />
+
+
 As you can see here, I asked the program for 4 versions, and gave it the directory paths it needed
 
 
 <img width="278" alt="image" src="https://github.com/user-attachments/assets/14456037-4884-4966-94c3-6d2dc43b113d" />
+
+
 Final product: All versions are in the output directory path
 
 
 <img width="388" alt="image" src="https://github.com/user-attachments/assets/905a4288-d13a-4dc0-b1a7-f2ece8039819" />
+
+
 Here as you can see the different versions contain the same questions as the initial version, but in a shuffled manner
 
 
