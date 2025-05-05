@@ -31,9 +31,12 @@ For example, this WILL work:
 <pre>
          1-          Who is the Football/soccer player with the most Ballon d'Or trophies?
 A. Lionel Messi
+   
+   
    B. Cristiano Ronaldo
   C. Sergio Ramos
-D. Diego Maradona
+
+   D. Diego Maradona
 
 </pre>
 
