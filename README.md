@@ -16,13 +16,15 @@ just copy the questions, paste them in, and save the text file onto your device.
 Each question must be formatted with a number at the beginning, and 4 possible answer choices: A, B, C, and D.
 You must have the questions in ascending order of number (so from 1 to 20 for example).
 You must also use one of these two formats for each question:
-
+<pre>
+```
 1. What is the capital of France?        |     1- Who is the Football/soccer player with the most Ballon d'Or trophies?
    A. Berlin                             |        A. Lionel Messi
    B. London                             |        B. Cristiano Ronaldo
    C. Paris                              |        C. Diego Maradona
    D. Rome                               |        D. Sergio Ramos
-
+```
+</pre>
 
 ## Demo
 I took 50 microeconomics MCQ questions,pasted them in the default version text file, 
@@ -69,7 +71,7 @@ Here as you can see the different versions contain the same questions as the ini
 
 
 
-##Thank you for using the MCQ Shuffler Program!
+## Thank you for using the MCQ Shuffler Program!
 
 
 
