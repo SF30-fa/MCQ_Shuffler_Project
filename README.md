@@ -17,13 +17,24 @@ Each question must be formatted with a number at the beginning, and 4 possible a
 You must have the questions in ascending order of number (so from 1 to 20 for example).
 You must also use one of these two formats for each question:
 <pre>
-```
-1. What is the capital of France?        |     1- Who is the Football/soccer player with the most Ballon d'Or trophies?
-   A. Berlin                             |        A. Lionel Messi
-   B. London                             |        B. Cristiano Ronaldo
-   C. Paris                              |        C. Diego Maradona
-   D. Rome                               |        D. Sergio Ramos
-```
+   
+1. What is the capital of France?        |  1- Who is the Football/soccer player with the most Ballon d'Or trophies?
+   A. Berlin                             |     A. Lionel Messi
+   B. London                             |     B. Cristiano Ronaldo
+   C. Paris                              |     C. Diego Maradona
+   D. Rome                               |     D. Sergio Ramos
+
+</pre>
+
+** NOTE ** - It doesn't matter if there are spaces or not between the question format, the most important thing is to respect the number and letter notations.
+For example, this WILL work: 
+<pre>
+         1-          Who is the Football/soccer player with the most Ballon d'Or trophies?
+A. Lionel Messi
+   B. Cristiano Ronaldo
+  C. Sergio Ramos
+D. Diego Maradona
+
 </pre>
 
 ## Demo
