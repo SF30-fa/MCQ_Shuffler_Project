@@ -1,0 +1,250 @@
+	1.	What is the basic economic problem?
+A. Inflation
+B. Unemployment
+C. Scarcity
+D. Recession
+	2.	Which of the following is a positive statement?
+A. The government should provide free healthcare
+B. Minimum wage should be increased
+C. A rise in income will lead to increased demand for cars
+D. Everyone deserves equal income
+	3.	What does the law of demand state?
+A. As price rises, quantity demanded rises
+B. As price falls, quantity demanded falls
+C. As price rises, quantity demanded falls
+D. Quantity demanded is unaffected by price
+	4.	Which of the following is a normative statement?
+A. Higher interest rates reduce investment
+B. Unemployment is at 6%
+C. The inflation rate is 3%
+D. The government ought to reduce poverty
+	5.	What is opportunity cost?
+A. The monetary cost of a good
+B. The benefit from the next best alternative forgone
+C. The cost of all alternatives
+D. The total cost of production
+	6.	What is a demand curve?
+A. A curve showing quantity producers are willing to sell
+B. A curve showing the relationship between price and quantity demanded
+C. A curve showing consumer preferences
+D. A curve representing income distribution
+	7.	A shift in the demand curve can be caused by:
+A. Change in price of the good
+B. Change in income
+C. Change in quantity demanded
+D. Change in supply only
+	8.	What happens to equilibrium price when demand increases and supply remains unchanged?
+A. Falls
+B. Rises
+C. Stays the same
+D. Becomes zero
+	9.	If a good has elastic demand, an increase in price will:
+A. Increase total revenue
+B. Decrease total revenue
+C. Not change total revenue
+D. Make demand increase
+	10.	Which of the following is a characteristic of a perfectly competitive market?
+A. Price setting firms
+B. Product differentiation
+C. Free entry and exit
+D. Single seller
+	11.	What does marginal cost represent?
+A. Cost of all units produced
+B. Average cost of production
+C. Cost of producing one more unit
+D. Fixed cost per unit
+	12.	In the short run, a firm should shut down if:
+A. Price > average total cost
+B. Price < average variable cost
+C. Marginal cost is falling
+D. Price = marginal cost
+	13.	Price elasticity of demand measures:
+A. The responsiveness of price to quantity demanded
+B. The responsiveness of demand to price changes
+C. Total quantity sold
+D. Income changes
+	14.	Which of the following is not a factor of production?
+A. Land
+B. Capital
+C. Money
+D. Labor
+	15.	What does the law of diminishing marginal returns state?
+A. Total output decreases with each additional input
+B. Additional output increases at a constant rate
+C. Additional output from one more input declines eventually
+D. Marginal product becomes negative immediately
+	16.	A normal good is one for which demand:
+A. Falls as income rises
+B. Rises as income falls
+C. Rises as income rises
+D. Does not change with income
+	17.	What is consumer surplus?
+A. Extra cost consumers pay
+B. Difference between what consumers are willing to pay and what they actually pay
+C. Amount producers receive over cost
+D. Government subsidy to consumers
+	18.	The production possibilities frontier (PPF) shows:
+A. Market equilibrium
+B. The maximum output combinations with given resources
+C. Supply curve
+D. Demand curve
+	19.	What is the cross-price elasticity of demand for substitutes?
+A. Zero
+B. Positive
+C. Negative
+D. Unmeasurable
+	20.	In monopolistic competition, firms:
+A. Produce identical products
+B. Have no control over price
+C. Face downward-sloping demand curves
+D. Are price takers
+	21.	A monopoly is:
+A. A market with many sellers
+B. A market with a single buyer
+C. A market with a single seller
+D. A perfectly competitive firm
+	22.	Which market structure has the most competition?
+A. Monopoly
+B. Monopolistic competition
+C. Oligopoly
+D. Perfect competition
+	23.	The supply curve shows:
+A. The quantity firms are willing to sell at each price
+B. Consumer preferences
+C. Total demand in the market
+D. Producer surplus
+	24.	What is the effect of a binding price ceiling?
+A. Surplus
+B. Shortage
+C. Equilibrium
+D. No effect
+	25.	What is marginal utility?
+A. Total satisfaction from consumption
+B. Satisfaction from the first unit only
+C. Additional satisfaction from consuming one more unit
+D. Utility gained from production
+	26.	What is meant by economic efficiency?
+A. Minimum use of resources
+B. Maximizing profits only
+C. Producing maximum output at lowest cost
+D. Government allocation of resources
+	27.	Which of the following shifts the supply curve?
+A. Change in preferences
+B. Change in technology
+C. Change in quantity demanded
+D. Change in price only
+	28.	An inferior good is one for which demand:
+A. Falls as income falls
+B. Falls as income rises
+C. Rises as income rises
+D. Doesn’t change with income
+	29.	In the long run, all costs are:
+A. Fixed
+B. Variable
+C. Sunk
+D. Avoidable
+	30.	A Giffen good is one for which:
+A. Demand increases as price increases
+B. Demand decreases as income increases
+C. Supply decreases as price increases
+D. Demand is perfectly elastic
+	31.	What is deadweight loss?
+A. A loss of revenue to producers
+B. Loss of total surplus due to market inefficiency
+C. Extra government spending
+D. None of the above
+	32.	Which of the following leads to allocative efficiency?
+A. Marginal cost > marginal benefit
+B. Marginal cost = marginal benefit
+C. Marginal revenue = marginal cost
+D. Average cost = average revenue
+	33.	Which of the following is not true in perfect competition in the long run?
+A. Firms earn zero economic profit
+B. Firms produce at minimum average cost
+C. Price equals marginal cost
+D. Firms can sustain positive profits indefinitely
+	34.	Oligopoly is characterized by:
+A. Many small firms
+B. Complete freedom of entry
+C. Interdependent pricing decisions
+D. Homogeneous products only
+	35.	Game theory is most relevant to:
+A. Monopoly
+B. Perfect competition
+C. Oligopoly
+D. Monopolistic competition
+	36.	A subsidy on production will:
+A. Shift the demand curve right
+B. Shift the supply curve left
+C. Shift the supply curve right
+D. Shift the demand curve left
+	37.	If the government imposes a tax on sellers:
+A. Demand curve shifts left
+B. Price falls
+C. Supply curve shifts left
+D. Quantity demanded increases
+	38.	The incidence of a tax depends on:
+A. Government revenue
+B. Price of the good
+C. Relative elasticities of demand and supply
+D. The size of the tax
+	39.	What happens when marginal cost exceeds marginal revenue?
+A. The firm should expand output
+B. The firm should reduce output
+C. The firm is maximizing profit
+D. Total profit is increasing
+	40.	Which cost is always decreasing as output increases?
+A. Average variable cost
+B. Average fixed cost
+C. Total cost
+D. Marginal cost
+	41.	Public goods are:
+A. Excludable and rival
+B. Non-excludable and rival
+C. Excludable and non-rival
+D. Non-excludable and non-rival
+	42.	The free rider problem is associated with:
+A. Private goods
+B. Public goods
+C. Natural monopolies
+D. Externalities
+	43.	What is the main cause of market failure?
+A. High prices
+B. Too many competitors
+C. Externalities and public goods
+D. Inflation
+	44.	What does price discrimination mean?
+A. Charging the same price to all consumers
+B. Charging different prices to different consumers for the same good
+C. Price control
+D. Offering discounts during holidays
+	45.	Which of these is an example of a positive externality?
+A. Air pollution
+B. Vaccination
+C. Noise from construction
+D. Smoking
+	46.	The marginal rate of substitution is:
+A. The price of the good
+B. The trade-off rate between two goods
+C. The slope of the budget line
+D. The total utility
+	47.	The budget line shows:
+A. Combinations of goods that a consumer prefers
+B. Combinations a consumer can afford
+C. Market demand
+D. Indifference curves
+	48.	What does a downward-sloping indifference curve indicate?
+A. Perfect substitutes
+B. Increasing marginal utility
+C. Diminishing marginal rate of substitution
+D. No trade-offs
+	49.	In the long run, monopolistically competitive firms:
+A. Earn supernormal profit
+B. Face a perfectly elastic demand curve
+C. Earn zero economic profit
+D. Have identical products
+	50.	When total revenue equals total cost:
+A. Profit is maximized
+B. Firm is in loss
+C. Firm breaks even
+D. Firm shuts down
