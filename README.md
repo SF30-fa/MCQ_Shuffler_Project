@@ -66,19 +66,14 @@ This is the file I want the program to put the generated shuffled versions in, s
 /Users/saeedfakhouri/Desktop/MCQ_Shuffler_Project-BackEnd/MCQ_output_Files
 
 
-<img width="410" alt="image" src="https://github.com/user-attachments/assets/347b9f3a-968a-4098-bd5f-05bf884bad0a" />
+<img width="410" alt="image" src="https://github.com/user-attachments/assets/a5e71295-3d79-44ba-ac22-bcc99eae4d9f" />
 
 
 As you can see here, I asked the program for 4 versions, and gave it the directory paths it needed
-
-
-<img width="278" alt="image" src="https://github.com/user-attachments/assets/14456037-4884-4966-94c3-6d2dc43b113d" />
-
-
 Final product: All versions are in the output directory path
 
 
-<img width="388" alt="image" src="https://github.com/user-attachments/assets/905a4288-d13a-4dc0-b1a7-f2ece8039819" />
+<img width="398" alt="image" src="https://github.com/user-attachments/assets/ce92fce9-68f3-4076-a973-fc849031eea4" />
 
 
 Here as you can see the different versions contain the same questions as the initial version, but in a shuffled manner
